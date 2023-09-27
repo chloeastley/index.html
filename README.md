@@ -4,11 +4,11 @@
 	year 9. However, I am self-taught in using various softwares and<br>
 	feel competent in doing so.</p><br>
 	
-	<heading>
+<heading>
 	<h1> Why I'm Doing This Course</h1> 
 	<p>I signed up to Click Start in the hopes of advancing my skills.</p><br>
 	
-	<heading>
+<heading>
 	<h1>What I'm Hoping To Gain From This Course</h1> 
 	<body>
 	<p>I am hoping to advance my skills so that I can off more in my<br>
